@@ -1,6 +1,6 @@
 
 นายสุรวิชญ์ สุริยะวงค์ 5908111004
-<li><a href="https://gumuxbboy99.000webhostapp.com/php/menu02.php">Home</a></li>
+<li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/menu02.php">Home</a></li>
 Select แบบ inner join เชื่อมหลายตาราง 
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/join_1.php">order_details inner join products</a></li>
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/join_2.php">orders inner join employees</a></li>
