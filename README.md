@@ -13,3 +13,8 @@ Select แบบ inner join เชื่อมหลายตาราง
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/join_groupby3.php">รายงานดูประเภทสินค้า</a></li>
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/join_groupby4.php">รายงานจำนวนสินค้าที่ถูกสั่ง</a></li>
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/join_groupby5.php">รายงานรายชื่อพนักงานที่ออกใบเสร็จให้ลูกค้า</a></li>
+สั่งซื้อสินค้า
+<li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/myorderform.php">myorderform</a></li>
+<li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/myproducts1.php">myproducts</a></li>
+<li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/myorders1.php">myorders</a></li>
+<li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/myorderdetails1.php">myorderdetails</a></li>
