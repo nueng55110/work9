@@ -1,4 +1,4 @@
-<img src="https://sv1.picz.in.th/images/2018/11/14/3UxZbV.jpg">
+<img align="center" src="https://sv1.picz.in.th/images/2018/11/14/3UxZbV.jpg">
 นายสุรวิชญ์ สุริยะวงค์ 5908111004
 <li><a href="https://surawit-suriyawong.000webhostapp.com/Menu02/menu02.php">Home</a></li>
 Select แบบ inner join เชื่อมหลายตาราง 
